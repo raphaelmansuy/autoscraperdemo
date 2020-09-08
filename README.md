@@ -6,7 +6,7 @@ Developed by [Alireza Mika](https://github.com/alirezamika), it can be downloade
 
 ## Concept and problem solved
 
-Despite the availability of tools such as [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Web Scrapping is difficult.
+Despite the availability of tools such as [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) Web Scraping is difficult.
 
 A library such Beautiful Soup helps you to:
 
